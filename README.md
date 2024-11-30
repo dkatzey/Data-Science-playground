@@ -2,6 +2,7 @@ Welcome to my GitHub repository!
 This is where data meets creativity and exploration. From uncovering fraud, analyzing signals, or diving deep into machine learning, all is covered. 🚀
 
 🗂 Projects Included
+
 📊 Bayesian Model Comparison
 Notebook: Bayesian_model_comparison_GRB090530760.ipynb
 
