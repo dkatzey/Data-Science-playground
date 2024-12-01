@@ -1,3 +1,5 @@
+# Data Science Playground
+
 Welcome to my GitHub repository!
 
 This is where data meets creativity and exploration. From uncovering fraud, analyzing signals, or diving deep into machine learning, all is covered. 🚀
